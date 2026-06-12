@@ -4,16 +4,6 @@ An end-to-end Data Analytics project that analyzes customer purchasing behavior 
 
 The project focuses on understanding customer spending patterns, subscription behavior, product performance, and revenue trends to generate actionable business insights.
 
----
-
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="Dashboard/dashboard.png" width="900">
-</p>
-
----
-
 ## 🚀 Project Highlights
 
 ✔ Cleaned and transformed raw customer transaction data using Python
